@@ -1,5 +1,6 @@
 # E. Enya Kuo
-![](https://spcl.yale.edu/sites/default/files/resize/images/yale_ek-225x225.JPG)
+<img src="https://spcl.yale.edu/sites/default/files/resize/images/yale_ek-225x225.JPG" width="150">
+
 <br>
 <br>
 I am a first-year Ph.D. student in the social psychology program at Yale. I am broadly interested in intergroup relations and political psychology in racially diverse contexts. I earned my B.A. in psychology and political science from UCLA.
