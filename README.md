@@ -1,4 +1,4 @@
-# E. Enya Kuo
+<h1>E. Enya Kuo</h1>
 <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=whztlp8AAAAJ&citpid=2" width="150">
 
 <p><b>Yale University | Department of Psychology</b></p>
