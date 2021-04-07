@@ -5,5 +5,5 @@
 <br>
 <strong><a href="https://scholar.google.com/citations?user=whztlp8AAAAJ&hl=en&oi=ao">Google Scholar</a></strong>
 <br>
-<p>I work primarily with Dr. Jennifer Richeson in the <a href="https://spcl.yale.edu/">Social Perception & Communication Lab</a> and with Dr. Michael Kraus in the <a href="https://www.csinequality.com/">Contending with Societal Inequality Lab</a>. I am an NSF Graduate Fellow. I hold a B.A. from UCLA.</p>
+<p>I work primarily with Dr. Jennifer Richeson in the <a href="https://spcl.yale.edu/">Social Perception & Communication Lab</a> and with Dr. Michael Kraus in the <a href="https://www.csinequality.com/">Contending with Societal Inequality Lab</a>. My work is supported by the NSF Graduate Research Fellowship and the Yale Center for the Study of Race, Indigeneity, and Transnational Migration.</p>
 
