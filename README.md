@@ -10,11 +10,11 @@ Pronouns: she/her</p>
 <b><a href="https://scholar.google.com/citations?user=whztlp8AAAAJ&hl=en&oi=ao">Google Scholar</a></b>
 
 <p>
-<b>Research</b> 
+<u>Research</u> 
 <br>
-[3] Pérez, E. O., <b><u>Kuo, E. E.</u></b>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (invited resubmission at Political Psychology). The politics in White identity: Testing a racialized partisan hypothesis.
+[3] Pérez, E. O., <b>Kuo, E. E.</b>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (invited resubmission at Political Psychology). The politics in White identity: Testing a racialized partisan hypothesis.
 <br>
-[2] Pérez, E. O. & <b>Kuo, E. E.</b> (accepted for publication). <em>Racial order, racialized responses: Interminority politics in a diverse nation</em>. New York: Cambridge University Press.
+[2] Pérez, E. O. & <b>Kuo, E. E.</b> (accepted for publication). <i>Racial order, racialized responses: Interminority politics in a diverse nation</i>. New York: Cambridge University Press.
 <br>
-[1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <em>Social Psychological and Personality Science</em>, 11(3), 397-405. doi.org/10.1177/1948550619867940.
+[1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <i>Social Psychological and Personality Science</i>, 11(3), 397-405. doi.org/10.1177/1948550619867940.
 </p>
