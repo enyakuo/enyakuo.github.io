@@ -3,7 +3,7 @@
 
 <p><b>Yale University | Department of Psychology</b></p>
 
-<p>I am a Ph.D. student in the social psychology program at Yale. My research interests broadly include intergroup relations, political psychology, and stigma-based solidarity in racially diverse contexts. I work primarily with (<a href="https://spcl.yale.edu/">Dr. Jennifer Richeson</a>) and (<a href="https://www.csinequality.com/">Dr. Michael Kraus</a>). My work is supported by the National Science Foundation Graduate Research Fellowship and the Yale Center for the Study of Race, Indigeneity, and Transnational Migration.<br>
+<p>I am a Ph.D. student in the social psychology program at Yale. My research interests broadly include intergroup relations, political psychology, and stigma-based solidarity in racially diverse contexts. I work primarily with <a href="https://spcl.yale.edu/">Dr. Jennifer Richeson</a> and <a href="https://www.csinequality.com/">Dr. Michael Kraus</a>. My work is supported by the National Science Foundation Graduate Research Fellowship and the Yale Center for the Study of Race, Indigeneity, and Transnational Migration.<br>
 Pronouns: she/her</p>
 <b><a href="https://app.box.com/s/hhpgcxiuxolhjeoso5pp7jitq80bmk6f">CV</a></b>
 <br>
