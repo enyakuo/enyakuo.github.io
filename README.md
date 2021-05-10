@@ -12,12 +12,9 @@ Pronouns: she/her</p>
 <p>
 <b>Research</b> 
 <br>
-<br>
 [3] Pérez, E. O., <b>Kuo, E. E.</b>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (invited resubmission at Political Psychology). The politics in White identity: Testing a racialized partisan hypothesis.
 <br>
-<br>
 [2] Pérez, E. O. & <b>Kuo, E. E.</b> (accepted for publication). <i>Racial order, racialized responses: Interminority politics in a diverse nation</i>. New York: Cambridge University Press.
-<br>
 <br>
 [1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <i>Social Psychological and Personality Science</i>, 11(3), 397-405. doi.org/10.1177/1948550619867940.
 </p>
