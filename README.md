@@ -12,7 +12,7 @@ Pronouns: she/her</p>
 <p>
 <b>Research</b> 
 <br>
-[3] Pérez, E. O., <br>Kuo, E. E.</br>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (invited resubmission at Political Psychology). The politics in White identity: Testing a racialized partisan hypothesis.
+[3] Pérez, E. O., <b>Kuo, E. E.</b>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (invited resubmission at Political Psychology). The politics in White identity: Testing a racialized partisan hypothesis.
 <br>
 [2] Pérez, E. O. & <b>Kuo, E. E.</b> (accepted for publication). <em>Racial order, racialized responses: Interminority politics in a diverse nation</em>. New York: Cambridge University Press.
 <br>
