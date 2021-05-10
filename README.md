@@ -12,7 +12,7 @@ Pronouns: she/her</p>
 <p>
 <b>Publications</b> 
 <br>
-[2] Pérez, E. O. & Kuo, E. E.(accepted for publication). Racial order, racialized responses: Interminority politics in a diverse nation. New York: Cambridge University Press.
+[2] Pérez, E. O. & <b>Kuo, E. E.</b> (accepted for publication). <em>Racial order, racialized responses: Interminority politics in a diverse nation</em>. New York: Cambridge University Press.
 <br>
-[1] Kuo, E. E.,Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. Social Psychological and Personality Science, 11(3), 397-405. doi.org/10.1177/1948550619867940.
+[1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <em>Social Psychological and Personality Science</em>, 11(3), 397-405. doi.org/10.1177/1948550619867940.
 </p>
