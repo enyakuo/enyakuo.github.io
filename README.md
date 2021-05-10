@@ -7,6 +7,7 @@ Pronouns: she/her</p>
 
 <b><a href="https://app.box.com/s/hhpgcxiuxolhjeoso5pp7jitq80bmk6f">CV</a></b>
 <br>
+<br>
 <b><a href="https://scholar.google.com/citations?user=whztlp8AAAAJ&hl=en&oi=ao">Google Scholar</a></b>
 
 <p>
