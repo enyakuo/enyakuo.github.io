@@ -4,7 +4,7 @@
 <a href="https://twitter.com/kuoenya"><img src="https://www.freeiconspng.com/uploads/png-logo-bird-twitter-image-2.png" width="13" align="bottom"></a>
 <br>
 <br>
-<img src="https://pbs.twimg.com/profile_images/1391161340547321859/Zez-tlzP_400x400.jpg" width="150" align="">
+<img src="https://pbs.twimg.com/profile_images/1391161340547321859/Zez-tlzP_400x400.jpg" width="150">
 I am a social psychology Ph.D. student at Yale University. My research interests broadly include intergroup relations, political psychology, and stigma-based solidarity in racially diverse contexts. I work with Dr.  Jennifer Richeson in the <a href="https://spcl.yale.edu/">Social Perception & Communication Lab </a> and with Dr. Michael Kraus in the <a href="https://www.csinequality.com/">Contending with Societal Inequality Lab</a>. My work is supported by the National Science Foundation Graduate Research Fellowship and the Yale Center for the Study of Race, Indigeneity, and Transnational Migration (<a href="https://ritm.yale.edu/">RITM</a>). Pronouns: she/her.
 <h1></h1>
 <br>
