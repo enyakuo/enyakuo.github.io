@@ -3,7 +3,7 @@
 <p>
   <b><a href="https://app.box.com/s/hhpgcxiuxolhjeoso5pp7jitq80bmk6f">CV</a></b> | 
   <b><a href="https://scholar.google.com/citations?user=whztlp8AAAAJ&hl=en&oi=ao">Google Scholar</a></b> |  
-  <b><a href="https://osf.io/zc96s/">OSF</a></b>
+  <b><a href="https://osf.io/zc96s/">OSF</a></b> | 
   <a href="https://twitter.com/kuoenya"><img src="https://www.freeiconspng.com/uploads/png-logo-bird-twitter-image-2.png" width="13" align="bottom"></a>
 </p>
 
