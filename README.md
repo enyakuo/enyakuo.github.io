@@ -23,4 +23,4 @@ I am a social psychology Ph.D. student at Yale University. My research interests
 <br>
 <br>
 <a href="https://www.linkedin.com/in/enyakuo/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="12.5" align="bottom"></a>   
-<a href="https://twitter.com/kuoenya"><img src="https://www.freeiconspng.com/uploads/png-logo-bird-twitter-image-2.png" width="13" align="bottom"</a>
+<a href=https://twitter.com/kuoenya"><img src="https://www.freeiconspng.com/uploads/png-logo-bird-twitter-image-2.png" width="13" align="bottom"></a>
