@@ -3,8 +3,7 @@
 <p>
   <b><a href="https://app.box.com/s/hhpgcxiuxolhjeoso5pp7jitq80bmk6f">CV</a></b> | 
   <b><a href="https://scholar.google.com/citations?user=whztlp8AAAAJ&hl=en&oi=ao">Google Scholar</a></b> |  
-  <b><a href="https://osf.io/zc96s/">OSF</a></b> | 
-  <a href="https://twitter.com/kuoenya"><img src="https://www.freeiconspng.com/uploads/png-logo-bird-twitter-image-2.png" width="13" align="bottom"></a>
+  <b><a href="https://osf.io/zc96s/">OSF</a></b>
 </p>
 
 <img src="https://pbs.twimg.com/profile_images/1391161340547321859/Zez-tlzP_400x400.jpg" width="150">
@@ -21,3 +20,6 @@ I am a social psychology Ph.D. student at Yale University. My research interests
 <br>
 <br>
 [1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <i>Social Psychological and Personality Science</i>, 11(3), 397-405. doi.org/10.1177/1948550619867940. [<a href="https://spcl.yale.edu/sites/default/files/files/Kuo_etal2019SPPS.pdf">PDF</a>]
+<br>
+<a href="https://www.linkedin.com/in/enyakuo/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="13" align="bottom"></a> 
+<a href="https://twitter.com/kuoenya"><img src="https://www.freeiconspng.com/uploads/png-logo-bird-twitter-image-2.png" width="13" align="bottom"</a>
