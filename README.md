@@ -20,6 +20,3 @@ I am a social psychology Ph.D. student at Yale University. My research interests
 <br>
 <br>
 [1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <i>Social Psychological and Personality Science</i>, 11(3), 397-405. doi.org/10.1177/1948550619867940. [<a href="https://spcl.yale.edu/sites/default/files/files/Kuo_etal2019SPPS.pdf">PDF</a>]
-<br>
-<br>
-<a href="https://www.linkedin.com/in/enyakuo/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="12.5" align="bottom"></a>   
