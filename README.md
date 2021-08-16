@@ -1,6 +1,6 @@
 <h1>E. Enya Kuo</h1> 
 <p>
-  I am a social psychology Ph.D. student at Yale University. My interests broadly include intergroup relations, political psychology, and stigma-based solidarity. I work with Dr. Jennifer Richeson in the <a href="https://spcl.yale.edu/">Social Perception & Communication Lab </a> and with Dr. Michael Kraus in the <a href="https://www.csinequality.com/">Contending with Societal Inequality Lab</a>. My work is supported by the National Science Foundation Graduate Research Fellowship. Pronouns: she/her.
+  I am a social psychology Ph.D. student at Yale University. My research interests broadly include intergroup relations, political psychology, and stigma-based solidarity. I work with Dr. Jennifer Richeson in the <a href="https://spcl.yale.edu/">Social Perception & Communication Lab </a> and with Dr. Michael Kraus in the <a href="https://www.csinequality.com/">Contending with Societal Inequality Lab</a>. My work is supported by the National Science Foundation Graduate Research Fellowship. Pronouns: she/her.
 </p>
 <p>
 Contact: enya dot kuo at yale dot edu
