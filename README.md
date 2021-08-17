@@ -15,6 +15,9 @@ Contact: enya dot kuo at yale dot edu
 <b>Publications</b>
 <br>
 <br>
+[3] Pérez, E. O., <b>Kuo, E. E.</b>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (accepted with minor revisions). The politics in White identity: Testing a racialized partisan hypothesis. <i>Political Psychology</i>.
+<br>
+<br>
 [2] Pérez, E. O. & <b>Kuo, E. E.</b> (in press). <i>Racial order, racialized responses: Interminority politics in a diverse nation</i>. New York: Cambridge University Press.
 <br>
 <br>
