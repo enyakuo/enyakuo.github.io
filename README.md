@@ -10,9 +10,7 @@ I am a social psychology Ph.D. student at Yale University. My research interests
 [<a href="https://scholar.google.com/citations?user=whztlp8AAAAJ&hl=en&oi=ao">Google Scholar</a>] 
 <br>
 <br>
-<b>Publications</b>
-<br>
-<br>
+<h2>Publications</h2>
 [3] Pérez, E. O., <b>Kuo, E. E.</b>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (accepted with minor revisions). The politics in White identity: Testing a racialized partisan hypothesis. <i>Political Psychology</i>.
 <br>
 <br>
