@@ -15,4 +15,4 @@ enya dot kuo at yale dot edu
 [2] Pérez, E. O. & <b>Kuo, E. E.</b> (2021). <i>Racial order, racialized responses: Interminority politics in a diverse nation</i> (Elements in Race, Ethnicity, and Politics). Cambridge: Cambridge University Press. [<a href="https://github.com/enyakuo/enyakuo.github.io/blob/main/PerezKuo2021.pdf">pdf</a>] 
 <br>
 <br>
-[1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <i>Social Psychological and Personality Science</i>, 11(3), 397-405. doi.org/10.1177/1948550619867940. [<a href="https://spcl.yale.edu/sites/default/files/files/Kuo_etal2019SPPS.pdf">pdf</a>]
+[1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <i>Social Psychological and Personality Science</i>, 11(3), 397-405. doi.org/10.1177/1948550619867940. [<a href="https://github.com/enyakuo/enyakuo.github.io/blob/main/KuoKrausRicheson2019.pdf">pdf</a>]
