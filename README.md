@@ -9,10 +9,10 @@ I am a social psychology Ph.D. student at Yale University. My research interests
 enya dot kuo at yale dot edu
 <br>
 <h2>Publications</h2>
-[3] Pérez, E. O., <b>Kuo, E. E.</b>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (in press). The politics in White identity: Testing a racialized partisan hypothesis. <i>Political Psychology</i>.
+[3] Pérez, E. O., <b>Kuo, E. E.</b>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (2021). The politics in White identity: Testing a racialized partisan hypothesis. <i>Political Psychology</i>. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12788">link</a>] 
 <br>
 <br>
-[2] Pérez, E. O. & <b>Kuo, E. E.</b> (2021). <i>Racial order, racialized responses: Interminority politics in a diverse nation</i> (Elements in Race, Ethnicity, and Politics). Cambridge: Cambridge University Press. [<a href="https://www.cambridge.org/core/elements/abs/racial-order-racialized-responses-interminority-politics-in-a-diverse-nation/F0A4F4A79172575D000B07A1C6BE3D6F">website</a>] 
+[2] Pérez, E. O. & <b>Kuo, E. E.</b> (2021). <i>Racial order, racialized responses: Interminority politics in a diverse nation</i> (Elements in Race, Ethnicity, and Politics). Cambridge: Cambridge University Press. [<a href="https://www.cambridge.org/core/elements/abs/racial-order-racialized-responses-interminority-politics-in-a-diverse-nation/F0A4F4A79172575D000B07A1C6BE3D6F">link</a>] 
 <br>
 Note: If you are a student and need access to this book, please email me.
 <br>
