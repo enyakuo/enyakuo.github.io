@@ -9,10 +9,10 @@ I am a social psychology Ph.D. student at Yale University. My research interests
 enya dot kuo at yale dot edu
 <br>
 <h2>Publications</h2>
-[3] Pérez, E. O., <b>Kuo, E. E.</b>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (2021). The politics in White identity: Testing a racialized partisan hypothesis. <i>Political Psychology</i>. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12788">link</a>] 
+[3] Pérez, E. O., <b>Kuo, E. E.</b>, Russel, J., Curtis-Scott, W., Muñoz, J., & Tobias, M. (2021). The politics in White identity: Testing a racialized partisan hypothesis. <i>Political Psychology</i>. doi.org/10.1111/pops.12788. [<a href="https://github.com/enyakuo/enyakuo.github.io/blob/main/Perez%20et%20al%202021.pdf">pdf</a>] 
 <br>
 <br>
-[2] Pérez, E. O. & <b>Kuo, E. E.</b> (2021). <i>Racial order, racialized responses: Interminority politics in a diverse nation</i> (Elements in Race, Ethnicity, and Politics). Cambridge: Cambridge University Press. [<a href="https://github.com/enyakuo/enyakuo.github.io/blob/main/PerezKuo2021.pdf">PDF</a>] 
+[2] Pérez, E. O. & <b>Kuo, E. E.</b> (2021). <i>Racial order, racialized responses: Interminority politics in a diverse nation</i> (Elements in Race, Ethnicity, and Politics). Cambridge: Cambridge University Press. [<a href="https://github.com/enyakuo/enyakuo.github.io/blob/main/PerezKuo2021.pdf">pdf</a>] 
 <br>
 <br>
-[1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <i>Social Psychological and Personality Science</i>, 11(3), 397-405. doi.org/10.1177/1948550619867940. [<a href="https://spcl.yale.edu/sites/default/files/files/Kuo_etal2019SPPS.pdf">PDF</a>]
+[1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <i>Social Psychological and Personality Science</i>, 11(3), 397-405. doi.org/10.1177/1948550619867940. [<a href="https://spcl.yale.edu/sites/default/files/files/Kuo_etal2019SPPS.pdf">pdf</a>]
