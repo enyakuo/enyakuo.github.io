@@ -1,5 +1,5 @@
 <h1>E. Enya Kuo</h1>
-I am a social psychology Ph.D. student at Yale University. My research interests broadly include intergroup relations, political psychology, and interminority coalitions. I work with <a href="https://spcl.yale.edu/">Dr. Jennifer Richeson</a> and <a href="https://www.csinequality.com/">Dr. Michael Kraus</a>. My work is supported by the National Science Foundation Graduate Research Fellowship. Pronouns: she/her.
+I am a social psychology Ph.D. student at Yale University working primarily with <a href="https://spcl.yale.edu/">Dr. Jennifer Richeson</a> and <a href="https://www.csinequality.com/">Dr. Michael Kraus</a>. My research interests broadly include intergroup relations, political psychology, and cross-racial coalitions among minoritized racial groups. My work is supported by the National Science Foundation Graduate Research Fellowship. Pronouns: she/her.
 <br>
 <br>
 [<a href="https://app.box.com/s/bbfd9v8tq9edwsv5imysmn9i9nw4yu8d">CV</a>] 
