@@ -2,7 +2,7 @@
 enya dot kuo at yale dot edu
 <br>
 <br>
-I am a social psychology Ph.D. student at Yale University working primarily with <a href="https://spcl.yale.edu/">Dr. Jennifer Richeson</a> and <a href="https://www.csinequality.com/">Dr. Michael Kraus</a>. I am broadly interested in intergroup relations, inequality, and political psychology. My work is supported by the National Science Foundation Graduate Research Fellowship. Pronouns: she/her.
+I am a PhD student and NSF Graduate Research Fellow in the Psychology Department at Yale University, where I work primarily with <a href="https://spcl.yale.edu/">Dr. Jennifer Richeson</a> and <a href="https://www.csinequality.com/">Dr. Michael Kraus</a>. My main research interests are in intergroup relations, inequality, and political psychology from the perspectives of marginalized groups. Pronouns: she/her.
 <br>
 <br>
 [<a href="https://app.box.com/s/bbfd9v8tq9edwsv5imysmn9i9nw4yu8d">CV</a>] 
