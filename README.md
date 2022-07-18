@@ -17,9 +17,3 @@ enya dot kuo at yale dot edu
 <br>
 [1] <b>Kuo, E. E.</b>, Kraus, M. W., & Richeson, J. A. (2019). High-status exemplars and the misperception of the Asian-White wealth gap. <i>Social Psychological and Personality Science</i>, 11(3), 397-405. doi.org/10.1177/1948550619867940. [<a href="https://drive.google.com/file/d/17tiCSImBI1bhkwUUddsVKgEMeY1ZoC5C/view?usp=sharing">pdf</a>]
 <br>Press: <a href="https://www.psychologicalscience.org/observer/misperceptions-about-racial-wealth-gap-examined-in-new-report">APS</a>, <a href="https://insights.som.yale.edu/insights/stereotypes-of-asian-americans-skew-estimates-of-racial-wealth-gap">Yale Insights</a>
-<br>
-<br>
-...
-<br>
-<br>
-<i>Yale University acknowledges that indigenous peoples and nations, including Mohegan, Mashantucket Pequot, Eastern Pequot, Schaghticoke, Golden Hill Paugussett, Niantic, and the Quinnipiac and other Algonquian speaking peoples, have stewarded through generations the lands and waterways of what is now the state of Connecticut. We honor and respect the enduring relationship that exists between these peoples and nations and this land.</i>
